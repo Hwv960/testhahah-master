@@ -1,7 +1,7 @@
 {
-  "name": "V2ray",
-  "description": "deploy V2ray to Heroku.",
-  "keywords": ["V2ray"],
+  "name": "hahahatewst",
+  "description": "deploy hahahatewst to Heroku.",
+  "keywords": ["hahahatewst"],
   "env": {
     "VER": {
        "description": "输入v2ray Core 版本号（latest表示最新版本）",
@@ -16,7 +16,7 @@
        "value": "10"
      }
   },
-  "website": "https://github.com/wangyi2005/v2ray-heroku",
-  "repository": "https://github.com/wangyi2005/v2ray-heroku",
+  "website": "https://github.com/Hwv960/testhahah",
+  "repository": "https://github.com/Hwv960/testhahah",
   "stack": "container"
  }
